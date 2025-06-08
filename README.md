@@ -1,10 +1,4 @@
 # Ranking-Mundial-de-Universidades-QS-2025
-Ótima ideia! O **README** do GitHub deve ser bem estruturado, destacando as ferramentas utilizadas e os insights gerados ao longo da análise.
-
-Aqui está um esboço que você pode usar para formatar seu **README.md**:
-
----
-
 # **📚 Análise do QS World University Rankings 2025**
 Este repositório contém uma análise detalhada do **QS World University Rankings 2025**, explorando tendências globais e regionais no desempenho das universidades.
 
