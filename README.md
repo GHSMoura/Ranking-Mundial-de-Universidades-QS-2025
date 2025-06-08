@@ -1,0 +1,1 @@
+# Ranking-Mundial-de-Universidades-QS-2025
